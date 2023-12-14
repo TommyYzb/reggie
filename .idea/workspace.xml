@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f92d6309-c156-4a04-88e5-f949f2fceac0" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../A.Maven/apache-maven-3.9.5-bin/apache-maven-3.9.5" />
+        <option name="userSettingsFile" value="D:\A.Maven\apache-maven-3.9.5-bin\apache-maven-3.9.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YZkuQGKZhmR6SnIakCfp2zPRW4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindow运行.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/A.Study/Item_RuiJi/reggie_take_out/src/main/java/com/itheima/entity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "31ee954601a2ac7573b0782bc2eec0b0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\A.Study\Item_RuiJi\reggie_take_out\src\main\java\com\itheima\entity" />
+      <recent name="D:\A.Study\Item_RuiJi\reggie_take_out\src\main\resources" />
+      <recent name="D:\A.Study\Item_RuiJi\reggie_take_out\src\main\java\com\itheima\utils" />
+      <recent name="D:\A.Study\Item_RuiJi\reggie_take_out\src\main\java\com\itheima\dto" />
+      <recent name="D:\A.Study\Item_RuiJi\reggie_take_out\src\main\resources\backend\page\demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\A.Study\Item_RuiJi\reggie_take_out\src\main\resources\front\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.utils" />
+      <recent name="com.itheima.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App">
+    <configuration name="AppTest.testMd5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.AppTest" />
+      <option name="METHOD_NAME" value="testMd5(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+        <item itemvalue="JUnit.AppTest.testMd5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f92d6309-c156-4a04-88e5-f949f2fceac0" name="变更" comment="" />
+      <created>1700740710508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700740710508</updated>
+      <workItem from="1700740711705" duration="6670000" />
+      <workItem from="1700789469892" duration="4363000" />
+      <workItem from="1700811500098" duration="577000" />
+      <workItem from="1700872967454" duration="23000" />
+      <workItem from="1700878579085" duration="5529000" />
+      <workItem from="1700891438854" duration="9168000" />
+      <workItem from="1700906309430" duration="7280000" />
+      <workItem from="1700914338687" duration="12000" />
+      <workItem from="1700914654640" duration="2875000" />
+      <workItem from="1700968502857" duration="2365000" />
+      <workItem from="1700983574149" duration="4740000" />
+      <workItem from="1700988752990" duration="3000" />
+      <workItem from="1700992180042" duration="14000" />
+      <workItem from="1700994795994" duration="8703000" />
+      <workItem from="1701053612337" duration="2522000" />
+      <workItem from="1701065140425" duration="4510000" />
+      <workItem from="1701070450409" duration="4946000" />
+      <workItem from="1701079940166" duration="9912000" />
+      <workItem from="1701156908040" duration="5911000" />
+      <workItem from="1701166396493" duration="767000" />
+      <workItem from="1701175222419" duration="26000" />
+      <workItem from="1701243423765" duration="5091000" />
+      <workItem from="1701326026888" duration="20000" />
+      <workItem from="1702208816714" duration="191000" />
+      <workItem from="1702209016760" duration="42000" />
+      <workItem from="1702209067102" duration="6000" />
+      <workItem from="1702346147074" duration="150000" />
+      <workItem from="1702346306022" duration="753000" />
+      <workItem from="1702350614820" duration="1639000" />
+      <workItem from="1702352569758" duration="15000" />
+      <workItem from="1702360651522" duration="4199000" />
+      <workItem from="1702364897792" duration="4828000" />
+      <workItem from="1702378396944" duration="2405000" />
+      <workItem from="1702381972576" duration="1935000" />
+      <workItem from="1702433700064" duration="4109000" />
+      <workItem from="1702446340252" duration="12192000" />
+      <workItem from="1702514653270" duration="1710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/service/impl/DishServiceImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/service/impl/DishServiceImpl.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/controller/AddressBookController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/controller/DishController.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/controller/SetMealController.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
