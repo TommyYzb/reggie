@@ -5,6 +5,11 @@ spring:
     multipart:
       max-file-size: 4MB
       max-request-size: 32MB
+  mail:
+    host: smtp.163.com
+    default-encoding: UTF-8
+    username: m18879907161@163.com
+    password: SQUIKPSTGBSHTGLW
   application:
 #  应用名称，可选
     name: reggie_take_out
